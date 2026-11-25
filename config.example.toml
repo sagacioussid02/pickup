@@ -1,0 +1,4 @@
+# Copy to ~/.config/pickup/config.toml
+roots = ["~/code", "~/work"]
+repos = []
+ignore = []
